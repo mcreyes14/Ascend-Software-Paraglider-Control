@@ -1,2 +1,2 @@
-# Ascend-Machine-Vision
-Repository for Ascend's Machine Vision Project
+# Ascend-Software-Paraglider-Control
+Repository for Ascend's Paraglider Control Software
